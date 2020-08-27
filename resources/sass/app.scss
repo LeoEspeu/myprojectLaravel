@@ -1,0 +1,9 @@
+@import '~bootstrap/scss/bootstrap';
+
+img {
+  display: block;
+
+  /* This rule is very important, please don't ignore this */
+  max-width: 50%;
+  height: 500px;
+}
